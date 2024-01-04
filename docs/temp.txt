@@ -1,0 +1,19 @@
+Abnormal event detection in video surveillance
+CUHK Avenue dataset
+http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
+
+UCSD pedestrian dataset
+http://www.svcl.ucsd.edu/projects/anomaly/dataset.html
+
+We train an autoencoder for abnormal event detection.
+ Now, we identify the abnormal events based on the euclidean distance of the custom video feed and the frames
+  predicted by the autoencoder.
+
+Deep learning is a subset of machine learning in artificial intelligence (AI) 
+that has networks capable of learning unsupervised from data that is unstructured or unlabeled.
+
+Deep Learning, Machine Learning, AI
+
+IDE: Google colab
+Front end: NA
+Backend: Python
